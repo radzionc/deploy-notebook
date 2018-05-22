@@ -1,0 +1,5 @@
+.terraform/
+.ipynb_checkpoints/
+*.tfstate
+*.tfstate.backup
+*.zip
