@@ -43,6 +43,7 @@ resource "aws_api_gateway_rest_api" "function" {
 
 resource "aws_s3_bucket" "function" {
   bucket = "${var.bucket_name}"
+  force_destroy = true
   policy = <<EOF
 {
   "Id": "bucket_policy_site",
