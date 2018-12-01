@@ -19,7 +19,7 @@ $ curl --request POST --data '{"a": 3, "b": 4}' <URL_FROM_OUTPUT>/function
 $ . ./deploy.sh tf-lambda tf-lambdas function.zip
 ```
 
-## [Story on Medium](https://medium.com/@geekrodion/blog-with-asp-net-core-and-react-redux-c80857b93cb6)
+## [Story on Medium](https://medium.com/@geekrodion/deploy-jupyter-notebook-to-aws-lambda-a57e87c53f37)
 
 ## License
 
