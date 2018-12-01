@@ -1,5 +1,7 @@
-# Deploy Jupyter Notebook to AWS Lambda
-## example for [medium article](https://medium.com/p/a57e87c53f37)
+# deploy-notebook
+
+>
+
 ![all text](https://cdn-images-1.medium.com/max/880/1*F9DLYPTkrq6UUPvzXaV8PA.png)
 
 ### run locally:
@@ -16,3 +18,9 @@ $ curl --request POST --data '{"a": 3, "b": 4}' <URL_FROM_OUTPUT>/function
 ```bash
 $ . ./deploy.sh tf-lambda tf-lambdas function.zip
 ```
+
+## [Story on Medium](https://medium.com/@geekrodion/blog-with-asp-net-core-and-react-redux-c80857b93cb6)
+
+## License
+
+MIT © [RodionChachura](https://geekrodion.com)
