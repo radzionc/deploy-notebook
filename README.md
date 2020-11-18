@@ -1,5 +1,5 @@
-# deploy-notebook
-
+# Deploy Notebook
+These days it is possible to deploy a function from Jupiter Notebook in less than a minute.
 >
 
 ![all text](https://cdn-images-1.medium.com/max/880/1*F9DLYPTkrq6UUPvzXaV8PA.png)
@@ -20,6 +20,12 @@ $ . ./deploy.sh tf-lambda tf-lambdas function.zip
 ```
 
 ## [Blog Post](https://geekrodion.com/blog/deploy-jupyter-lambda)
+
+## Technologies
+* Python
+* Jupyter Notebook
+* AWS Lambda
+* Terraform
 
 ## License
 
